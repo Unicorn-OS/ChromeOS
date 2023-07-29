@@ -7,6 +7,11 @@ https://chromium.googlesource.com/chromiumos/platform/crosvm/
 
 # Sommelier - Nested Wayland compositor
 https://chromium.googlesource.com/chromiumos/platform2/+/HEAD/vm_tools/sommelier/README.md
+- https://chromeos.dev/en/linux/linux-on-chromeos-faq#im-running-insert-distro-here-how-do-i-get-gui-apps-launcher-icons-etc
+
+## garcon
+https://chromeos.dev/en/linux/linux-on-chromeos-faq#im-running-insert-distro-here-how-do-i-get-gui-apps-launcher-icons-etc
+- https://chromium.googlesource.com/chromiumos/platform2/+/master/vm_tools/garcon/
 
 # Shell:
 ## vsh - Vsock SHell
