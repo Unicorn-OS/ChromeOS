@@ -12,5 +12,9 @@ https://chromium.googlesource.com/chromiumos/platform2/+/HEAD/vm_tools/sommelier
 ## vsh - Vsock SHell
 https://chromium.googlesource.com/chromiumos/platform2/+/master/vm_tools/vsh/
 
+# container image:
 ## Termina
+"termina" Seems to be the name of a LXC container image running inside KVM?
 https://chromium.googlesource.com/chromiumos/overlays/board-overlays/+/master/project-termina/
+
+- wiki: https://wiki.archlinux.org/title/Chrome_OS_devices/Crostini#Create_the_container
