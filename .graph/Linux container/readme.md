@@ -9,5 +9,5 @@ wiki: https://wiki.archlinux.org/title/Chrome_OS_devices/Crostini
 sch: https://www.google.com/search?q=chromebook+crostini
 
 # Wayland
-## Nested: Sommelier
-https://chromium.googlesource.com/chromiumos/platform2/+/master/vm_tools/sommelier/
+## Sommelier - nested
+https://chromium.googlesource.com/chromiumos/platform2/+/HEAD/vm_tools/sommelier/README.md
