@@ -2,7 +2,9 @@
 Site: https://chromeos.dev/en/linux
 _also known as "Crostini"_
 
-Doc: https://chromeos.dev/en/linux/linux-on-chromeos-deep-dive
+Doc:
+- https://chromium.googlesource.com/chromiumos/platform/crosvm/
+- https://chromeos.dev/en/linux/linux-on-chromeos-deep-dive
 
 FAQ: https://chromeos.dev/en/linux/linux-on-chromeos-faq
 
