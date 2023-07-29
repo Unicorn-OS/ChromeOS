@@ -1,4 +1,4 @@
-# Architecture overview:
+# Architecture - overview:
 https://chromeos.dev/en/linux/linux-on-chromeos-deep-dive
 
 # Hypervisor:
