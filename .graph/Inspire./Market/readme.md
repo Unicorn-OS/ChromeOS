@@ -1,0 +1,1 @@
+- [Is a $25 Chromebook Worth It?!? (2023)](https://youtu.be/DhBso_3gAM4)
