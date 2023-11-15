@@ -6,3 +6,4 @@ Home:
 
 Guide:
 - https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers/
+- https://chromium.googlesource.com/chromiumos/docs/+/main/developer_guide.md
