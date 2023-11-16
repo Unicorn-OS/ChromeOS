@@ -1,5 +1,6 @@
-# Developer Mode
+# ChromeOS Development
 Home:
+- https://chromium.googlesource.com/chromiumos/docs/+/main/developer_guide.md
 - https://chromium.googlesource.com/chromiumos/docs/+/HEAD/developer_mode.md
 - https://chromium.googlesource.com/chromiumos/docs/+/main/tips-and-tricks.md
 
