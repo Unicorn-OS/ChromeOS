@@ -1,6 +1,7 @@
 # Developer Mode
 Home:
 - https://chromium.googlesource.com/chromiumos/docs/+/HEAD/developer_mode.md
+- https://chromium.googlesource.com/chromiumos/docs/+/main/tips-and-tricks.md
 
 [blocked Developer Mode](https://support.google.com/chrome/a/answer/6150653)
 
