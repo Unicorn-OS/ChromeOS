@@ -1,0 +1,1 @@
+- [CHROME OS Flex is a BAD operating system](https://youtu.be/XYBMdKlYygg)
