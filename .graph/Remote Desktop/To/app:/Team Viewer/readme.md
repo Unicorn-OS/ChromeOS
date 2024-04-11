@@ -1,4 +1,4 @@
-discuss: https://community.spiceworks.com/t/vnc-server-on-chrome-os/583363/2
+discuss: https://community.spiceworks.com/t/vnc-server-on-chrome-os/583363
 
 # app: TeamViewer Host
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en_US&gl=US
