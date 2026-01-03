@@ -10,8 +10,6 @@ Guide: [Recover your Chromebook](https://support.google.com/chromebook/answer/10
 # tool:
 - browser extension: [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?pli=1)
 
-# Recovery img Direct Download
-https://dl.google.com/dl/edgedl/chromeos/recovery/recovery.conf
-
+# [Recovery img Direct Download](https://dl.google.com/dl/edgedl/chromeos/recovery/recovery.conf)
 [sch](https://www.google.com/search?q=Chromebook+Recovery+image+download)
 - [discuss:](https://www.reddit.com/r/chromeos/comments/z6lrfk/where_can_i_find_a_direct_download_for_a_chromeos/)
