@@ -4,7 +4,9 @@ sch: https://www.google.com/search?q=chromebook+linux+ssh+server
 https://superuser.com/questions/1513228/how-can-i-ssh-into-chrome-os
 
 # Solution:
-https://www.hackershark.com/2021/05/13/how-to-ssh-into-your-chromebook-through-linux-beta/
+## Guide:
+Ark: https://web.archive.org/web/20210513172249/https://www.hackershark.com/2021/05/13/how-to-ssh-into-your-chromebook-through-linux-beta/
+- https://www.hackershark.com/2021/05/13/how-to-ssh-into-your-chromebook-through-linux-beta/
 
 >Overview
 >1. Remove the file at /etc/ssh/sshd_not_meant_to_be_run
