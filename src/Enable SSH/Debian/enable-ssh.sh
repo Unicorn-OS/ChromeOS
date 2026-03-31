@@ -12,4 +12,5 @@ sudo apt -y install openssh-server
 # enable ssh.services
 sudo systemctl enable ssh.service
 
+sudo systemctl reload ssh.service
 sudo systemctl restart ssh.service
