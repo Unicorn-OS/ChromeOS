@@ -14,3 +14,7 @@ sudo systemctl enable ssh.service
 
 sudo systemctl reload ssh.service
 sudo systemctl restart ssh.service
+
+# Test / Debug
+sudo journalctl -u ssh | tail -n 100
+#https://serverfault.com/questions/130482/how-to-check-sshd-log
