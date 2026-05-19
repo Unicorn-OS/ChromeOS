@@ -3,9 +3,10 @@
 # Home:
 https://chromeos.dev/en
 
+# Developer Information for ChromeOS Devices
 https://www.chromium.org/chromium-os/developer-library/reference/development/developer-information-for-chrome-os-devices/
 
-index:
+# index:
 - https://chromium.googlesource.com/chromiumos/docs/+/main/developer_guide.md
 - https://chromium.googlesource.com/chromiumos/docs/+/HEAD/developer_mode.md
 - https://chromium.googlesource.com/chromiumos/docs/+/main/tips-and-tricks.md
