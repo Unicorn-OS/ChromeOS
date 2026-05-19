@@ -3,9 +3,10 @@ https://www.chromium.org/chromium-os/developer-library/guides/device/install-sof
 
 open crosh shell:
 `Ctrl + Shift T`
-
 open bash:
 `shell`
+OR: open virtual terminal
+`Ctrl + Alt + F2 (→ forward arrow)`
 
 install:
 `sudo dev_install`
