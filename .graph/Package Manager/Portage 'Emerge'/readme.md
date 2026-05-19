@@ -1,4 +1,7 @@
-sch: https://www.google.com/search?q=chromebook+developer+install+package+emerge
+# Search:
+- https://www.google.com/search?q=chromebook+developer+install+package+emerge
+- https://www.google.com/search?q=chromeos+emerge
+- https://www.google.com/search?q=chromebook+emerge
 
 # Doc:
 - https://chromium.googlesource.com/chromiumos/docs/+/HEAD/portage/ebuild_faq.md
